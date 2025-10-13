@@ -1,5 +1,5 @@
 # Netflix-Data-Analysis
-Exploratory data analysis project on a  Netflix dataset. This project explores and analyzes the Netflix content catalog to uncover trends and patterns across different dimensions using Python, pandas, and Plotly.
+Exploratory data analysis project on a  Netflix catalogue dataset. This project explores and analyzes the Netflix content catalogue to uncover trends and patterns across different dimensions using Python, pandas, and Plotly.
 
 🔗 **[Live Interactive Visualizations (GitHub Pages)](https://itsnehakv.github.io/Netflix-Data-Analysis/)
 ## Technology Used:
