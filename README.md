@@ -38,12 +38,12 @@ Exploratory data analysis project on a  Netflix catalogue dataset. This project 
 
 ## ⊹ | How to Explore the Charts
 The interactive charts are hosted via GitHub Pages. View them directly here: <br>
-✦ <a href="contenttype.html" target="_blank">Chart 1: Distribution of Content Ratings on Netflix</a> <br>
-✦ <a href="topdirectors.html" target="_blank">Chart 2: Top 5 Directors on Netflix</a> <br>
-✦ <a href="topactors.html" target="_blank">Chart 3: Top 5 Actors on Netflix</a> <br>
-✦ <a href="contenttrend.html" target="_blank">Chart 4: Trends in type of content featured on Netflix by year</a><br>
-✦ <a href="topcountries.html" target="_blank">Chart 5: Top 5 movie-producing Countries on Netflix</a><br>
-✦ <a href="sentiment.html" target="_blank">Chart 6: Sentiment Analysis of Content by Release Year</a> <br>
+✦ <a href="https://itsnehakv.github.io/Netflix-Catalogue-Data-Analysis/contenttype.html" target="_blank">Chart 1: Distribution of Content Ratings on Netflix</a> <br>
+✦ <a href="https://itsnehakv.github.io/Netflix-Catalogue-Data-Analysis/topdirectors.html" target="_blank">Chart 2: Top 5 Directors on Netflix</a> <br>
+✦ <a href="https://itsnehakv.github.io/Netflix-Catalogue-Data-Analysis/topactors.html" target="_blank">Chart 3: Top 5 Actors on Netflix</a> <br>
+✦ <a href="https://itsnehakv.github.io/Netflix-Catalogue-Data-Analysis/contenttrend.html" target="_blank">Chart 4: Trends in type of content featured on Netflix by year</a><br>
+✦ <a href="https://itsnehakv.github.io/Netflix-Catalogue-Data-Analysis/topcountries.html" target="_blank">Chart 5: Top 5 movie-producing Countries on Netflix</a><br>
+✦ <a href="https://itsnehakv.github.io/Netflix-Catalogue-Data-Analysis/sentiment.html" target="_blank">Chart 6: Sentiment Analysis of Content by Release Year</a> <br>
 <br>
 Or browse all charts from the **[Index Page](https://itsnehakv.github.io/Netflix-Catalogue-Data-Analysis/)**
 
