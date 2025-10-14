@@ -18,7 +18,7 @@ Exploratory data analysis project on a  Netflix catalogue dataset. This project 
 ## ⊹ | Dataset
 ⋆ **Source**: [Kaggle: Netflix Movies And TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download) <br>
 ⋆ **Entries**: ~8,800+ <br>
-⋆ **Fields included**: show id, type, title, director, cast, country, date added, release year, rating, duration, listed in, description, etc.
+⋆ **Fields**: show id, type, title, director, cast, country, date added, release year, rating, duration, listed in, description
 
 ## ⊹ | Analytical Objectives<br>
 ⋆ Understand the distribution of content ratings throughout the Netflix catalogue<br>
