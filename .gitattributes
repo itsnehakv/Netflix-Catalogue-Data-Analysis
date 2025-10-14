@@ -1,5 +1,4 @@
 *.ipynb linguist-language= Jupyter Notebook
-*.html linguist-vendored
 index.html linguist-vendored
 contenttype.html linguist-vendored
 contenttrend.html linguist-vendored
